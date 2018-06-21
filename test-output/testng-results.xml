@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1214" started-at="2018-06-21T09:13:05Z" finished-at="2018-06-21T09:13:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1214" started-at="2018-06-21T09:13:05Z" finished-at="2018-06-21T09:13:07Z">
+      <class name="tests.TestdJobSearch">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.TestdJobSearch@50d0686]" name="setUp" is-config="true" duration-ms="13636" started-at="2018-06-21T09:12:52Z" finished-at="2018-06-21T09:13:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="classSetUp()[pri:0, instance:tests.TestdJobSearch@50d0686]" name="classSetUp" is-config="true" duration-ms="368" started-at="2018-06-21T09:13:05Z" finished-at="2018-06-21T09:13:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classSetUp -->
+        <test-method status="PASS" signature="testRandomSelectOption()[pri:0, instance:tests.TestdJobSearch@50d0686]" name="testRandomSelectOption" duration-ms="818" started-at="2018-06-21T09:13:06Z" finished-at="2018-06-21T09:13:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRandomSelectOption -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.TestdJobSearch@50d0686]" name="tearDown" is-config="true" duration-ms="751" started-at="2018-06-21T09:13:07Z" finished-at="2018-06-21T09:13:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.TestdJobSearch -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
